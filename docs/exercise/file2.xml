@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+  <name>Benergy</name>
+  <test_name>Bea</test_name>
+  <list>
+      <element_list>Food</element_list>
+      <element_list>Exercise</element_list>
+      <element_list>Sleep</element_list>
+      <element_list>Mind</element_list>
+      <element_list>Digestion</element_list>
+      <element_list>Environment</element_list>
+  </list>
+</app>
